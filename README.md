@@ -9,7 +9,7 @@
 * 结构体的使用
 * 数组的使用
 * 增删改查的基本概念
-* 基本的比较、排序、查找算法
+* 基本算法的使用如：排序、查找算法等
 * 文件的读取、写入
   
 ## 功能点列表
@@ -66,7 +66,6 @@
         ---person.dat (文件存储操作的数据，默认有初始化数据)
 
 
-
 * 直接运行界面，对系统进行操作
 
 <img src="https://raw.githubusercontent.com/dengjili/class_ms/master/picture/run_1.png" width = "400" height = "300" div align=center />
@@ -77,20 +76,32 @@
 ### 学生基本信息录入
 1. 手工录入已经追加
 
-    其中手动录入为初始化录入，操作3为追加数据
+    其中手动录入为初始化录入一条学生信息，然后选择操作3追加一条学生信息数据，然后再打印录入信息
 
 <img src="https://raw.githubusercontent.com/dengjili/class_ms/master/picture/manual_add.gif" width = "600" height = "450" div align=center />
 
 2. 文件录入
 
+    导入数据来自于文件：`person.dat`，文件为二进制文件，不可使用编辑器直接查看数据。操作为导入文件，然后再打印录入信息
+
+<img src="https://raw.githubusercontent.com/dengjili/class_ms/master/picture/file_add.gif" width = "600" height = "450" div align=center />
+
 ### 学生基本信息显示
+    信息展示为所有演示功能的基础功能，参考其他即可
+
 ### 学生基本信息保存
+
+
 ### 学生基本信息删除
 ### 学生基本信息修改
 ### 学生基本信息查询
 1. 按学号查询
+   
 2. 按姓名查询
+   
 ### 学生总分成绩查询
 1. 按降序查询
+   
 2. 按升序查询
+
 ### 退出系统
