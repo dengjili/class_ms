@@ -1,4 +1,4 @@
-# class_ms
+# 班级档案管理系统
 原题目要求是对一个有N个学生的班级，通过该系统实现对该班级学生的基本信息进行录入、
 显示、修改、删除、保存等操作的管理。
 
@@ -36,7 +36,7 @@
 4. 将学生基本信息保存到文件中。
 5. ~~进入系统之前要先输入密码。~~
 
-`其中删除线功能未实现，如果有兴趣实现可以向我Pull requests，功能实现不负责，有一点需要注意，输入密码需要使用****等覆盖，不能显示明文`
+`其中删除线功能未实现，如果有兴趣实现可以向我Pull requests，功能实现不复杂，有一点需要注意，输入密码需要使用****等覆盖，不能显示明文`
 
 
 ## 使用
@@ -72,6 +72,23 @@
 <img src="https://raw.githubusercontent.com/dengjili/class_ms/master/picture/run_1.png" width = "400" height = "300" div align=center />
 
 ## 功能演示
+所有演示采用GIT动态图演示，有的操作属于合并
 
+### 学生基本信息录入
+1. 手工录入已经追加
 
+其中手动录入为初始化录入
+<img src="https://raw.githubusercontent.com/dengjili/class_ms/master/picture/manual_add.gif" width = "600" height = "450" div align=center />
+2. 文件录入
 
+### 学生基本信息显示
+### 学生基本信息保存
+### 学生基本信息删除
+### 学生基本信息修改
+### 学生基本信息查询
+1. 按学号查询
+2. 按姓名查询
+### 学生总分成绩查询
+1. 按降序查询
+2. 按升序查询
+### 退出系统
