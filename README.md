@@ -77,8 +77,10 @@
 ### 学生基本信息录入
 1. 手工录入已经追加
 
-其中手动录入为初始化录入
+    其中手动录入为初始化录入，操作3为追加数据
+
 <img src="https://raw.githubusercontent.com/dengjili/class_ms/master/picture/manual_add.gif" width = "600" height = "450" div align=center />
+
 2. 文件录入
 
 ### 学生基本信息显示
