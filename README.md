@@ -90,7 +90,9 @@
     信息展示为所有演示功能的基础功能，参考其他即可
 
 ### 学生基本信息保存
+    导入数据来自于文件：`person.dat`，文件为二进制文件，不可使用编辑器直接查看数据。操作为导入文件，然后再打印录入信息
 
+<img src="https://raw.githubusercontent.com/dengjili/class_ms/master/picture/file_save.gif" width = "600" height = "450" div align=center />
 
 ### 学生基本信息删除
 ### 学生基本信息修改
