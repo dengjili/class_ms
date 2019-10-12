@@ -45,10 +45,27 @@
 * 或者git命令下载： 
   ```git clone git@github.com:dengjili/class_ms.git```
 
-
-* 直接运行项目
+* 项目结构截图
 
 <img src="https://raw.githubusercontent.com/dengjili/class_ms/master/picture/import_1.png" width = "400" height = "300" div align=center />
+
+********************
+**项目结构说明**
+
+    ---头文件
+        ---global.h (全局变量声明)
+        ---menu_ui.h (菜单声明)
+        ---person.h (班级信息功能实现声明)
+        ---person_file.h (文件操作声明)
+    ---源文件文件
+        ---main.c (全局变量实现)
+        ---menu_ui.c (菜单实现)
+        ---person.c (班级信息功能实现实现)
+        ---person_file.c (文件操作实现)
+    ---资源文件
+        ---person.dat (文件存储操作的数据，默认有初始化数据)
+
+
 
 * 直接运行界面，对系统进行操作
 
