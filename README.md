@@ -90,20 +90,25 @@
     信息展示为所有演示功能的基础功能，参考其他即可
 
 ### 学生基本信息保存
-    导入数据来自于文件：`person.dat`，文件为二进制文件，不可使用编辑器直接查看数据。操作为导入文件，然后再打印录入信息
+    添加一条学生信息数据，然后保存最新数据到文件中，然后再操作导入文件，再打印最新文件信息，测试是否保存成功
 
 <img src="https://raw.githubusercontent.com/dengjili/class_ms/master/picture/file_save.gif" width = "600" height = "450" div align=center />
 
 ### 学生基本信息删除
+    删除一条学生信息
+<img src="https://raw.githubusercontent.com/dengjili/class_ms/master/picture/person_delete.gif" width = "600" height = "450" div align=center />
 ### 学生基本信息修改
+    修改一条学生信息
+<img src="https://raw.githubusercontent.com/dengjili/class_ms/master/picture/person_update.gif" width = "600" height = "450" div align=center />
 ### 学生基本信息查询
 1. 按学号查询
-   
+<img src="https://raw.githubusercontent.com/dengjili/class_ms/master/picture/person_query_by_num.gif" width = "600" height = "450" div align=center />  
 2. 按姓名查询
-   
+ <img src="https://raw.githubusercontent.com/dengjili/class_ms/master/picture/person_query_by_name.gif" width = "600" height = "450" div align=center />  
 ### 学生总分成绩查询
 1. 按降序查询
-   
+<img src="https://raw.githubusercontent.com/dengjili/class_ms/master/picture/person_desc.gif" width = "600" height = "450" div align=center />
 2. 按升序查询
-
+<img src="https://raw.githubusercontent.com/dengjili/class_ms/master/picture/person_asc.gif" width = "600" height = "450" div align=center />
 ### 退出系统
+退出系统
