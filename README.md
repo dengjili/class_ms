@@ -42,8 +42,13 @@
 ## 使用
 
 * 压缩包下载： [Download Zip](https://github.com/dengjili/class_ms/archive/master.zip)
-* 或者git命令下载： `git clone git@github.com:dengjili/class_ms.git`
+* 或者git命令下载： 
+  ```git clone git@github.com:dengjili/class_ms.git```
 
+* 直接运行项目
+![新建项目](https://raw.githubusercontent.com/dengjili/class_ms/master/picture/import_1.png "新建项目")
+
+![运行界面](https://raw.githubusercontent.com/dengjili/class_ms/master/picture/run_1.png "运行界面")
 
 
 ## 功能演示
