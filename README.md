@@ -2,7 +2,7 @@
 原题目要求是对一个有N个学生的班级，通过该系统实现对该班级学生的基本信息进行录入、
 显示、修改、删除、保存等操作的管理。
 
-    项目改造为指针使用版本
+`由于个人需要，我单独将项目改造为指针使用版本，掌握上难度较高，有需要的请前往指针版本：` [对应github项目地址]()
 
 **主要掌握点包括**
 
@@ -45,11 +45,14 @@
 * 或者git命令下载： 
   ```git clone git@github.com:dengjili/class_ms.git```
 
+
 * 直接运行项目
-![新建项目](https://raw.githubusercontent.com/dengjili/class_ms/master/picture/import_1.png "新建项目")
 
-![运行界面](https://raw.githubusercontent.com/dengjili/class_ms/master/picture/run_1.png "运行界面")
+<img src="https://raw.githubusercontent.com/dengjili/class_ms/master/picture/import_1.png" width = "400" height = "300" div align=center />
 
+* 直接运行界面，对系统进行操作
+
+<img src="https://raw.githubusercontent.com/dengjili/class_ms/master/picture/run_1.png" width = "400" height = "300" div align=center />
 
 ## 功能演示
 
